@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VECTORGRAPH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb0a5b53b3da2c76e1c29025b733e1fbaf9bbfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("VECTORGRAPH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VECTORGRAPH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -145,3 +145,4 @@ C:\Users\famil\OneDrive\Documentos\GitHub\VECTOR GRAPH\VECTORGRAPH\VECTORGRAPH\b
 C:\Users\famil\OneDrive\Documentos\GitHub\VECTOR GRAPH\VECTORGRAPH\VECTORGRAPH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\famil\OneDrive\Documentos\GitHub\VECTOR GRAPH\VECTORGRAPH\VECTORGRAPH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\famil\OneDrive\Documentos\GitHub\VECTOR GRAPH\VECTORGRAPH\VECTORGRAPH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\famil\OneDrive\Documentos\GitHub\VECTOR GRAPH\VECTORGRAPH\VECTORGRAPH\obj\Debug\net8.0\VECTORGRAPH.sourcelink.json

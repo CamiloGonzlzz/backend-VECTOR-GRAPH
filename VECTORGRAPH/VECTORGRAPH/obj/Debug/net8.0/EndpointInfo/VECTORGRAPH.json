@@ -130,7 +130,15 @@
             "type": "string",
             "nullable": true
           },
+          "apellidos": {
+            "type": "string",
+            "nullable": true
+          },
           "correo": {
+            "type": "string",
+            "nullable": true
+          },
+          "institucion": {
             "type": "string",
             "nullable": true
           },

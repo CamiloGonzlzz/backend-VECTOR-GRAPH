@@ -28,7 +28,9 @@ namespace VECTORGRAPH.Controllers
             var modeloUsuario = new Usuario
             {
                 Nombre = objeto.Nombre,
+                Apellidos = objeto.Apellidos,
                 Correo = objeto.Correo,
+                InstitucionEducativa = objeto.Institucion,
                 Contraseña = _utilidades.encriptarSHA256(objeto.Clave)
             };
 
